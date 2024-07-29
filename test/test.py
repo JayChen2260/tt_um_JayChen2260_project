@@ -38,7 +38,6 @@ async def test_project(dut):
     #Start the clock
     cocotb.start_soon(clock.start())
 
-
     # Run through reset sequence.  Start low, go high, go back to low. The test begins when the reset goes low.
     dut._log.info("Reset")
     #Set inputs for enable, ui_in and uio_in
