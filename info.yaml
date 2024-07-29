@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "PRBS31"      # Project title
-  author:       "Jay Chen"      # Your name
+  author:       "JayChen"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Generates a PRBS signal"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
